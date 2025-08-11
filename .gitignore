@@ -1,0 +1,49 @@
+# Compiled object files and executables
+*.o
+*.out
+*.exe
+*.class
+
+# Build directories
+/build/
+/bin/
+/obj/
+
+# Python cache and environments
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+ENV/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+
+# VSCode and IDE config files
+.vscode/
+.idea/
+
+# Neovim swap, backup, and undo files
+*.swp
+*.swo
+*.swn
+*.un~
+*.backup
+*.undo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# CS50-specific
+*.tar.gz
+*.zip
+
